@@ -53,7 +53,9 @@ a:visited{
     color: white;
 }
 
-
+.clr{
+    clear: both;
+}
 
 .box-1 {
   background-color: #333;
