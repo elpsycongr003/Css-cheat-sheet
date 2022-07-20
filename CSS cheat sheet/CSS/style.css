@@ -37,8 +37,15 @@ a:visited{
 */
 
 .container {
-  width: 80%;
-  margin: auto;
+    width: 80%;
+    margin: auto;
+}
+
+.button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
 }
 
 .box-1 {
@@ -124,9 +131,11 @@ a:visited{
   width: 100%;
 }
 
-.button {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 15px;
-  border: none;
-}
+
+
+
+
+
+
+
+
